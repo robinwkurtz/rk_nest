@@ -1,0 +1,26 @@
+.cycle-slideshow {
+    .cycle-prev,
+    .cycle-next {
+        position: absolute;
+        margin: 0;
+        top: 50%;
+        margin-top: -20px;
+
+        -webkit-tap-highlight-color: transparent;
+
+        @include triangle($site-gutter*1.5, rgba($color-alt, 0.75), transparent);
+
+        z-index: 200;
+
+        cursor: pointer;
+    }
+
+    .cycle-prev {
+        left: $site-gutter/2;
+        @include rotate(-180deg);
+    }
+
+    .cycle-next {
+        right: $site-gutter/2;
+    }
+}

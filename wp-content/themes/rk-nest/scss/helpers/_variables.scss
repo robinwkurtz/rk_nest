@@ -1,0 +1,36 @@
+// Color
+
+$color-white: #FFF;
+$color-lt-gray: #EEE;
+$color-gray: #CCC;
+$color-dk-gray: #4C494A;
+$color-black: #000;
+
+$color-red: #FF364A;
+
+$color-body: $color-dk-gray;
+$color-main: $color-dk-gray;
+$color-alt: $color-dk-gray;
+
+$color-error: $color-red; //#FA2326;
+$color-success: #78D287;
+
+// Fonts
+
+$font-raleway: 'Raleway', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+
+$font-header: $font-raleway;
+$font-body: $font-raleway;
+
+$font-size-header-large: 32px;
+$font-size-header: 24px;
+$font-size-header-small: 18px;
+$font-size-body: 16px;
+$font-size-body-small: 14px;
+$font-size-body-xsmall: 12px;
+$font-size-body-xxsmall: 10px;
+
+// Structure
+
+$site-gutter: 24px;
+$site-width: 1024px;

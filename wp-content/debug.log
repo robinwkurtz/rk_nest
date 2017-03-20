@@ -1,0 +1,854 @@
+[22-Jan-2017 16:05:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:06:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:07:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:07:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:07:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:07:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:07:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 16:07:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 17:55:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 17:55:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 17:55:37 UTC] PHP Fatal error:  Cannot redeclare dsq_options() (previously declared in /Applications/AMPPS/www/nest/wp-content/plugins/disqus-conditional-load/disqus-core/disqus.php:38) in /Applications/AMPPS/www/nest/wp-content/plugins/disqus-comment-system/disqus.php on line 53
+[22-Jan-2017 17:55:38 UTC] PHP Fatal error:  Cannot redeclare dsq_options() (previously declared in /Applications/AMPPS/www/nest/wp-content/plugins/disqus-conditional-load/disqus-core/disqus.php:38) in /Applications/AMPPS/www/nest/wp-content/plugins/disqus-comment-system/disqus.php on line 53
+[22-Jan-2017 17:55:38 UTC] PHP Fatal error:  Cannot redeclare dsq_options() (previously declared in /Applications/AMPPS/www/nest/wp-content/plugins/disqus-conditional-load/disqus-core/disqus.php:38) in /Applications/AMPPS/www/nest/wp-content/plugins/disqus-comment-system/disqus.php on line 53
+[22-Jan-2017 20:11:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:15:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:15:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:15:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:15:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:16:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:19:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:19:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:19:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:19:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:19:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:19:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:22:45 UTC] PHP Notice:  Array to string conversion in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/vendor/cmb2/includes/CMB2_Types.php on line 189
+[22-Jan-2017 20:22:45 UTC] PHP Notice:  Array to string conversion in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/vendor/cmb2/includes/CMB2_Types.php on line 189
+[22-Jan-2017 20:22:45 UTC] PHP Notice:  Array to string conversion in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/vendor/cmb2/includes/CMB2_Types.php on line 189
+[22-Jan-2017 20:22:45 UTC] PHP Notice:  Array to string conversion in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/vendor/cmb2/includes/CMB2_Types.php on line 189
+[22-Jan-2017 20:22:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:22:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:22:55 UTC] PHP Notice:  Array to string conversion in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/vendor/cmb2/includes/CMB2_Types.php on line 189
+[22-Jan-2017 20:22:55 UTC] PHP Notice:  Array to string conversion in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/vendor/cmb2/includes/CMB2_Types.php on line 189
+[22-Jan-2017 20:22:55 UTC] PHP Notice:  Array to string conversion in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/vendor/cmb2/includes/CMB2_Types.php on line 189
+[22-Jan-2017 20:22:55 UTC] PHP Notice:  Array to string conversion in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/vendor/cmb2/includes/CMB2_Types.php on line 189
+[22-Jan-2017 20:23:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:23:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:23:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:23:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:23:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:23:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 86
+[22-Jan-2017 20:24:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:24:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:25:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:25:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:27:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:27:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:28:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:28:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:29:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:29:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:29:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:30:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:30:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:33:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:33:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:45:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 20:45:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/header.php on line 80
+[22-Jan-2017 21:18:30 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 5
+[22-Jan-2017 21:18:30 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 5
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: taxonomies in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: count in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:54 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: taxonomies in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: count in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 27
+[22-Jan-2017 21:18:55 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 31
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 17
+[22-Jan-2017 21:19:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 21
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[22-Jan-2017 21:19:52 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-list.php on line 18
+[25-Jan-2017 23:18:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/Applications/AMPPS/var/mysql.sock' (61) in /Applications/AMPPS/www/nest/wp-includes/wp-db.php on line 1538
+[26-Jan-2017 00:07:00 UTC] PHP Notice:  Trying to get property of non-object in /Applications/AMPPS/www/nest/wp-content/plugins/disqus-conditional-load/disqus-core/disqus.php on line 820
+[26-Jan-2017 02:18:35 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 98
+[26-Jan-2017 02:18:35 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 98
+[26-Jan-2017 02:18:35 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 98
+[27-Jan-2017 03:30:43 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 59
+[27-Jan-2017 03:30:43 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 59
+[27-Jan-2017 03:30:43 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 59
+[27-Jan-2017 03:30:50 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 122
+[27-Jan-2017 03:31:08 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 130
+[27-Jan-2017 03:31:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 130
+[27-Jan-2017 03:34:24 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 60
+[27-Jan-2017 03:34:52 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 60
+[27-Jan-2017 03:34:52 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 60
+[27-Jan-2017 03:35:10 UTC] PHP Catchable fatal error:  Object of class WP_User could not be converted to string in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/vendor/cmb2/includes/CMB2_Types.php on line 243
+[27-Jan-2017 03:38:35 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 63
+[27-Jan-2017 03:38:35 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 63
+[27-Jan-2017 03:38:35 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 63
+[27-Jan-2017 03:39:03 UTC] PHP Parse error:  syntax error, unexpected ':' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base/meta-fields.php on line 63
+[27-Jan-2017 05:06:21 UTC] PHP Catchable fatal error:  Object of class WP_User could not be converted to string in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/single-type-recipes.php on line 20
+[27-Jan-2017 05:10:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/single-type-recipes.php on line 7
+[27-Jan-2017 05:29:40 UTC] PHP Catchable fatal error:  Object of class WP_User could not be converted to string in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/author.php on line 17
+[27-Jan-2017 05:31:13 UTC] PHP Notice:  Trying to get property of non-object in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/author.php on line 13
+[27-Jan-2017 05:36:52 UTC] PHP Notice:  Trying to get property of non-object in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 215
+[27-Jan-2017 05:39:01 UTC] PHP Parse error:  syntax error, unexpected 'can_edit' (T_STRING) in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/author.php on line 14
+[27-Jan-2017 05:39:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/author.php on line 20
+[27-Jan-2017 05:50:30 UTC] PHP Notice:  Theme without comments.php is <strong>deprecated</strong> since version 3.0.0 with no alternative available. Please include a comments.php template in your theme. in /Applications/AMPPS/www/nest/wp-includes/functions.php on line 3959
+[27-Jan-2017 12:57:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/Applications/AMPPS/var/mysql.sock' (2) in /Applications/AMPPS/www/nest/wp-includes/wp-db.php on line 1538
+[28-Jan-2017 20:35:35 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 5
+[28-Jan-2017 20:35:35 UTC] PHP Notice:  Undefined variable: tax_query in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/tpl-feed-grid.php on line 52
+[28-Jan-2017 20:36:29 UTC] PHP Notice:  Undefined variable: tax_query in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/tpl-feed-grid.php on line 54
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 19
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 45
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 45
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 45
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 45
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 45
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:47:44 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 45
+[28-Jan-2017 20:48:04 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 43
+[28-Jan-2017 20:48:04 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 47
+[28-Jan-2017 20:48:04 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 43
+[28-Jan-2017 20:48:04 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 47
+[28-Jan-2017 20:48:04 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 43
+[28-Jan-2017 20:48:04 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 47
+[28-Jan-2017 20:48:04 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 43
+[28-Jan-2017 20:48:04 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 47
+[28-Jan-2017 20:48:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 43
+[28-Jan-2017 20:48:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 43
+[28-Jan-2017 20:48:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 43
+[28-Jan-2017 20:48:27 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 43
+[28-Jan-2017 20:49:24 UTC] PHP Notice:  Undefined variable: tax in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 19
+[28-Jan-2017 20:49:24 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:49:24 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:49:24 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:49:24 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:49:24 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:49:24 UTC] PHP Notice:  Undefined variable: tax_label in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 41
+[28-Jan-2017 20:50:25 UTC] PHP Notice:  Undefined variable: taxonomies in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 28
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:46:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:38 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:47:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:48:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:49:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:05 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:50:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:51:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:55:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 365
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 22:56:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:08 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:42 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:42 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:42 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:42 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:42 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:42 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:42 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[28-Jan-2017 23:04:42 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/includes/base-theme.php on line 364
+[29-Jan-2017 03:04:34 UTC] PHP Warning:  Missing argument 1 for get_taxonomy(), called in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/tpl-feed-grid.php on line 22 and defined in /Applications/AMPPS/www/nest/wp-includes/taxonomy.php on line 234
+[29-Jan-2017 03:04:34 UTC] PHP Notice:  Undefined variable: taxonomy in /Applications/AMPPS/www/nest/wp-includes/taxonomy.php on line 237
+[29-Jan-2017 14:05:00 UTC] PHP Notice:  Trying to get property of non-object in /Applications/AMPPS/www/nest/wp-content/plugins/disqus-conditional-load/disqus-core/disqus.php on line 820
+[29-Jan-2017 14:18:30 UTC] PHP Notice:  Undefined variable: tax_query in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 7
+[29-Jan-2017 14:18:34 UTC] PHP Notice:  Undefined variable: tax_query in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 7
+[29-Jan-2017 14:18:36 UTC] PHP Notice:  Undefined variable: tax_query in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 7
+[29-Jan-2017 14:18:36 UTC] PHP Notice:  Undefined variable: tax_query in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 7
+[29-Jan-2017 14:18:37 UTC] PHP Notice:  Undefined variable: tax_query in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 7
+[29-Jan-2017 14:18:50 UTC] PHP Notice:  Undefined variable: tax_query in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 7
+[29-Jan-2017 14:19:00 UTC] PHP Notice:  Use of undefined constant undefined - assumed 'undefined' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 7
+[29-Jan-2017 14:19:00 UTC] PHP Notice:  Undefined variable: tax_query in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 7
+[29-Jan-2017 14:19:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 26
+[29-Jan-2017 14:19:00 UTC] PHP Notice:  Use of undefined constant undefined - assumed 'undefined' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 7
+[29-Jan-2017 14:19:00 UTC] PHP Notice:  Use of undefined constant undefined - assumed 'undefined' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/parts/tpl-category-menu.php on line 7
+[29-Jan-2017 22:17:36 UTC] PHP Fatal error:  Call to undefined function get_wp_title() in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/single-type-recipes.php on line 42
+[29-Jan-2017 22:27:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /Applications/AMPPS/www/nest/wp-content/themes/rk-nest/single-type-recipes.php on line 38
+[09-Feb-2017 00:59:49 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/Applications/AMPPS/var/mysql.sock' (2) in /Applications/AMPPS/www/nest/wp-includes/wp-db.php on line 1538

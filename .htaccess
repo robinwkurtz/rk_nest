@@ -1,0 +1,23 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /nest/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /nest/index.php [L]
+</IfModule>
+
+# END WordPress
+
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+
+  # Attempt to load files from production if
+  # they're not in our local version
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule wp-content/uploads/(.*) \
+    http://nest.robinwkurtz.com/wp-content/uploads/$1 [NC,L]
+</IfModule>

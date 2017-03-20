@@ -1,0 +1,6 @@
+.post-info,
+.spacer {
+    margin: $site-gutter/2 auto $site-gutter auto;
+
+    @extend .text-small;
+}
