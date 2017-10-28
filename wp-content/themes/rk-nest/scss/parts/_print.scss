@@ -1,0 +1,80 @@
+@media print {
+    html, body { height: 99% !important; }
+
+    body {
+        background-color: transparent !important;
+
+        header.header {
+            position: absolute;
+            top: 0;
+            left: 0;
+
+            width: 80px;
+
+            background-color: transparent;
+            border: 0 none;
+
+            .logo {
+                margin-top: $site-gutter/2;
+            }
+            .menu-main-menu-container {
+                display: none;
+            }
+        }
+
+        div.site {
+            width: 100%;
+
+            .inner-wrapper,
+            .column,
+            .columns {
+                margin: 0 !important;
+                padding: 0;
+            }
+
+            .recipe {
+                .column,
+                .columns {
+                    &:first-child {
+                        float: left;
+                        width: 34%;
+                    }
+                    &:last-child {
+                        float: left;
+                        width: 66%;
+                        padding-left: $site-gutter;
+                    }
+                    &.spacer {
+                        display: none;
+                    }
+                }
+                .recipe-block {
+                    ul {
+                        li {
+                            &.active {
+                                &:before {
+                                    content: '✔';
+                                    line-height: 0;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            p, h1, h2, h3, h4, h5, h6 {
+            	+ p, + h1, + h2, + h3, + h4, + h5, + h6 {
+            		margin: $site-gutter*.33 0;
+            	}
+            }
+        }
+
+        .editor,
+        #breadcrumbs,
+        #controls,
+        .comment-block,
+        footer.footer {
+            display: none;
+        }
+    }
+}

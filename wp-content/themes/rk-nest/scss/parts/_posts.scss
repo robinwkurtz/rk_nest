@@ -4,3 +4,11 @@
 
     @extend .text-small;
 }
+
+.single {
+    .btn {
+        + .social-links {
+            margin-left: $site-gutter/2;
+        }
+    }
+}

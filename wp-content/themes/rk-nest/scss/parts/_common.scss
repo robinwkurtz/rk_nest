@@ -4,6 +4,8 @@
     background-color: $color-white;
 
     border: 3px solid $color-dk-gray;
+    margin-right: 3px;
+    margin-bottom: 3px;
 
     @include border-radius(3px);
     border-bottom-right-radius: 0;
@@ -65,7 +67,6 @@
 
     display: inline-block;
 
-    margin: 0;
     padding: $site-gutter/2 $site-gutter/1.5;
 
     background-color: $color-white;
@@ -164,32 +165,62 @@
         text-decoration: none;
 
         color: $color-body;
-        .block-image {
-            // margin-bottom: $site-gutter/2;
 
+        .block-text,
+        .block-image {
             padding-bottom: 100%;
 
+            .block-title {
+                padding: $site-gutter/2;
+
+                background-color: $color-red;
+
+                color: $color-white;
+
+                font-weight: 700;
+
+                text-align: center;
+                text-transform: lowercase;
+
+                line-height: normal;
+
+                @extend .absolute;
+
+                @include box-sizing;
+            }
+        }
+
+        .block-text {
+            @extend .absolute;
+
+            .block-title {
+                display: table;
+                width: 100%;
+                height: 100%;
+
+                font-size: $font-size-header-large;
+
+                > div
+                > span {
+                    position: relative;
+
+                    display: table-cell;
+                    vertical-align: middle;
+                }
+            }
+        }
+
+        .block-image {
             background-color: $color-red;
             background-size: cover;
             background-position: center;
+
+            .block-title {
+                font-size: $font-size-header;
+
+                @extend .bottom;
+            }
         }
-    }
-
-    .text {
-        .block-title {
-            color: $color-white;
-
-            text-align: center;
-            font-size: 64px;
-            line-height: normal;
-        }
-    }
-
-    .block-title {
-        font-weight: 700;
-
-        @extend .absolute;
-        @extend .bottom;
     }
 
     .editor {
@@ -201,6 +232,8 @@
 
         background-color: $color-dk-gray;
         color: $color-white;
+
+        z-index: 1;
 
         &:before {
             margin-right: 0;
@@ -242,6 +275,7 @@
             font-weight: 700;
 
             text-decoration: none;
+            text-transform: lowercase;
             line-height: normal;
 
             @include box-sizing();
@@ -301,6 +335,47 @@
                 }
             }
         }
+    }
+}
+
+.checklist {
+    li {
+        opacity: .65;
+
+        @include transition(opacity, ease, 0.75s);
+
+        &.active,
+        &:hover {
+            cursor: pointer;
+            opacity: 1;
+
+            @include transition(opacity, ease, 0.75s);
+        }
+    }
+}
+
+.recipe-block {
+    padding: $site-gutter $site-gutter/2;
+
+    @extend .checklist;
+    @extend .shadowed-box;
+    @extend .align-left;
+}
+
+.social-links {
+    display: inline-block;
+    vertical-align: middle;
+
+    a {
+        display: block;
+        &:hover {
+            cursor: pointer;
+        }
+    }
+
+    svg,
+    img {
+        display: block;
     }
 }
 

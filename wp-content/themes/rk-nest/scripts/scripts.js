@@ -52,6 +52,14 @@ var functions = {
                 }
             });
         }
+    },
+    externalLinks: function () {
+        $('a').each(function () {
+            var href = $(this).attr('href');
+            if (href && href.indexOf(window.location.hostname) === -1) {
+                $(this).attr('target', '_blank');
+            }
+        });
     }
 };
 
@@ -59,8 +67,8 @@ var functions = {
 
     $(document).ready(function () {
 
-        // Email Replace
         functions.emailReplace();
+        functions.externalLinks();
 
 		// Burger Menu
     	$('.js-menu-button').on('click touchstart', function (event) {
@@ -75,11 +83,11 @@ var functions = {
         });
 
         // Sharing links
-        $('.social-links a:not(.mail)').on('click', function (e) {
-            e.preventDefault();
+        $('.social-links a:not(.mail)').on('click', function (event) {
+            event.preventDefault();
             var link = $(this).attr('data-link');
-            if (!that.isMobile()) {
-                window.open(link, 'newwindow', 'width=700, height=500');
+            if (isMobile.any() !== null) {
+                window.open(link, '_blank', 'width=700, height=500');
             } else {
                 window.location.href = link;
             }

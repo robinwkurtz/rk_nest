@@ -62,7 +62,8 @@ function cust_meta_fields()
 	foreach($authors as $author) :
 		$author_array[$author->ID] = (!empty($author->display_name)) ? $author->display_name : $author->user_nicename;
 	endforeach;
-	$author_array[0] = 'Non Author';
+	$author_array['unknown'] = 'Unkown';
+	$author_array['other'] = 'Other';
 
 	/**
 	* Feed Template
@@ -132,17 +133,40 @@ function cust_meta_fields()
  		'id' => $prefix . 'post_recipes_nonauthor',
  		'type' => 'text',
 		'attributes' => array(
-	         'data-conditional-id' => $prefix . 'post_recipes_author'
+	         'data-conditional-id' => $prefix . 'post_recipes_author',
+			 'data-conditional-value' => 'Other',
 		 )
+	));
+	$post_recipes->add_field(array(
+ 		'name' => __('Credit A Non-Author Source', be_domain()),
+ 		'id' => $prefix . 'post_recipes_nonauthor_src',
+ 		'type' => 'text'
 	));
 	$post_recipes->add_field(array(
  		'name' => __('Featured Image', be_domain()),
  		'id' => $prefix . 'post_recipes_featured',
  		'type' => 'file'
 	));
+	$post_recipes->add_field(array(
+ 		'name' => __('Image Credit', be_domain()),
+ 		'id' => $prefix . 'post_recipes_photo_credit',
+ 		'type' => 'select',
+		'options' => $author_array
+	));
  	$post_recipes->add_field(array(
  		'name' => __('Ingredients', be_domain()),
  		'id' => $prefix . 'post_recipes_ingredients',
+ 		'type' => 'wysiwyg',
+		'options' => $wysiwygOptions
+ 	));
+	$post_recipes->add_field(array(
+ 		'name' => __('Seconday Ingredients Heading', be_domain()),
+ 		'id' => $prefix . 'post_recipes_secondary_ingredients_heading',
+ 		'type' => 'text'
+ 	));
+	$post_recipes->add_field(array(
+ 		'name' => __('Seconday Ingredients', be_domain()),
+ 		'id' => $prefix . 'post_recipes_secondary_ingredients',
  		'type' => 'wysiwyg',
 		'options' => $wysiwygOptions
  	));

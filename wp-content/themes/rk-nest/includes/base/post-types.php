@@ -60,9 +60,9 @@ function customPostTypes()
 
     register_post_type('type-recipes', array(
         'labels' => array(
-            'name' => _x('Recipes', 'Titles', theme_domain()),
+            'name' => _x('Our Recipes', 'Titles', theme_domain()),
             'singular_name' => _x('Recipe', 'Titles', theme_domain()),
-            'menu_name' => _x('Recipes', 'Titles', theme_domain()),
+            'menu_name' => _x('Our Recipes', 'Titles', theme_domain()),
         ),
         'public' => true,
         'publicly_queryable' => true,
@@ -70,13 +70,13 @@ function customPostTypes()
         'show_in_menu' => true,
         'show_in_nav_menus' => true,
         'query_var' => true,
-        'rewrite' => array('slug' => _x('recipe', 'URL Slug', theme_domain()), 'with_front' => false, 'page' => false),
+        'rewrite' => array('slug' => _x('our-recipes', 'URL Slug', theme_domain()), 'with_front' => false, 'page' => false),
         'capability_type' => 'page',
         'has_archive' => true,
         'hierarchical' => false,
         'menu_position' => 21,
         'menu_icon' => 'dashicons-carrot',
-        'supports' => array('title', 'revisions', 'thumbnail', 'comments'),
+        'supports' => array('title', 'revisions', 'thumbnail', 'comments', 'author'),
     ));
 
 }
@@ -95,3 +95,10 @@ if (!function_exists('unregister_post_type')) :
 		return false;
 	}
 endif;
+
+add_action( 'pre_get_posts', function ( $q ) {
+    if( !is_admin() && $q->is_main_query() && $q->is_author() ) {
+        $q->set( 'posts_per_page', 100 );
+        $q->set( 'post_type', 'type-recipes' );
+    }
+});

@@ -64,9 +64,10 @@ ul, ol {
 
 ul {
 	&.inline-list {
-		margin: 0 -$site-gutter/6;
+		// margin: 0 -$site-gutter/6;
 		li {
 			display: inline-block;
+			vertical-align: middle;
 			margin: $site-gutter/6;
 		}
 	}
